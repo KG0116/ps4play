@@ -9,7 +9,7 @@ PlayStation 4 Game Store
 ![ps4play home](https://dl.dropboxusercontent.com/s/r8oc41g4taaeufu/home.png?dl=0)
 
 <br />
-Games (Genre: Adventure)
+**Games (Genre: Adventure)**
 
 ![enter image description here](https://dl.dropboxusercontent.com/s/20tpkw4yk9mx6go/adventure.png?dl=0)
 
@@ -21,7 +21,7 @@ Games (Genre: Adventure)
 ![enter image description here](https://dl.dropboxusercontent.com/s/ntxj2euhq4v15y2/game-view.png?dl=0)
 
 <br />
-Cart
+**Cart**
 
 ![enter image description here](https://dl.dropboxusercontent.com/s/zzte0g74bokea4r/cart.png?dl=0)
 
